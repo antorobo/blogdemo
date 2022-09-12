@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# README
-TWO
-=======
-# README, ONE
 
->>>>>>> f48b6a332a605d70be04afe01987569d07ede55b
+# README, ONE
+TWO
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
